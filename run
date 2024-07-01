@@ -1,0 +1,9 @@
+#!/bin/bash
+
+cd $1
+
+javac *.java
+
+java App
+
+rm *.class
