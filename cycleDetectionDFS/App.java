@@ -11,8 +11,8 @@ public class App {
         Vertex v6 = new Vertex("6");
 
         v1.addNeighbor(v2);
-        v1.addNeighbor(v3);
         v2.addNeighbor(v3);
+        v3.addNeighbor(v1);
         v4.addNeighbor(v1);
         v4.addNeighbor(v5);
         v5.addNeighbor(v6);

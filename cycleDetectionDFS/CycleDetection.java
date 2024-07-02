@@ -24,10 +24,10 @@ public class CycleDetection {
             if (!v.isVisited()) {
                 dfs(v);
             }
-
-            System.out.println("Set vertex " + vertex + " setBeingVisited(false) and setVisited(true)");
-            vertex.setBeingVisited(false);
-            vertex.setVisited(true);
         }
+
+        System.out.println("Set vertex " + vertex + " setBeingVisited(false) and setVisited(true)");
+        vertex.setBeingVisited(false);
+        vertex.setVisited(true);
     }
 }
