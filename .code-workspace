@@ -8,6 +8,12 @@
         },
         {
             "path": "webCrawler"
+        },
+        {
+            "path": "bellmanFord"
+        },
+        {
+            "path": "dijkstra"
         }
     ],
     "settings": {
