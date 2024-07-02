@@ -11,6 +11,9 @@
         },
         {
             "path": "bellmanFord"
+        },
+        {
+            "path": "dijkstra"
         }
     ],
     "settings": {
