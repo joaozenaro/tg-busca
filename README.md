@@ -5,7 +5,11 @@
 ### Codespaces
 
 1. Abrir o container  
-No GitHub $$<\ > \text{Code} \longrightarrow Codespaces \longrightarrow \text{Create codespace on main}$$
+No GitHub
+
+$$
+<\ > \text{Code} \longrightarrow Codespaces \longrightarrow \text{Create codespace on main} 
+$$
 
 ### Linux + Docker
 1. Clonar o repo
@@ -21,7 +25,10 @@ code tg-busca/
 ```
 
 3. Abrir o container
-$$QuickSearch (ctrl + shift + p) \longrightarrow \text{Dev Containers: Rebuild and Reopen in Container}$$
+
+$$
+QuickSearch (ctrl + shift + p) \longrightarrow \text{Dev Containers: Rebuild and Reopen in Container}
+$$ 
 
 ### Ambos
 
