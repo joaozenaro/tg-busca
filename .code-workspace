@@ -8,6 +8,9 @@
         },
         {
             "path": "webCrawler"
+        },
+        {
+            "path": "bellmanFord"
         }
     ],
     "settings": {
