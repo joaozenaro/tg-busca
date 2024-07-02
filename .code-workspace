@@ -1,0 +1,16 @@
+{
+    "folders": [
+        {
+            "path": "cycleDetectionDFS"
+        },
+        {
+            "path": "topologicalOrdering"
+        },
+        {
+            "path": "webCrawler"
+        }
+    ],
+    "settings": {
+        "java.configuration.updateBuildConfiguration": "automatic"
+    }
+}
