@@ -43,3 +43,5 @@ Caso não apareçam anotações acima dos metodos `main`. No canto superior dire
 
 ### Pressione `Run` acima do metodo main de algum dos projetos.
 > Com essa configuração, cada projeto tem seu namespace proprio.
+
+test
